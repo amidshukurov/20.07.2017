@@ -1,0 +1,31 @@
+.taphsiriq{
+
+    background-color: lightgray;
+    border-left: 2px solid green ;
+    border-bottom: 1px solid gray;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 250px;
+    padding: 3px;
+    margin: 3px;
+
+
+
+
+
+}
+.image{
+    background-color: red;
+    padding: 20px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    border-left: 3px solid green;
+    width: 275px;
+    height: 183px;
+    
+
+}
+.imgagebear{
+    width: 1120%;
+    height: 100%;
+}
